@@ -2,9 +2,7 @@
  ![Profile Views](https://komarev.com/ghpvc/?username=wildanlh&color=blue)
  
 ## About Me
-I'm Wildan Luqmanul Hakim from Indonesia, i'm 19 years old, and now i'm a student studying several programming languages.
-
-if you want to ask about me, you can contact on my social media below
+I'm Wildan Luqmanul Hakim from Indonesia, i'm 19 years old, and now i'm a student studying several programming languages. If you want to ask about me, you can contact on my social media below
 
 ## Skills
 <p align="left">
