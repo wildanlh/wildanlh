@@ -26,19 +26,6 @@ I'm Wildan Luqmanul Hakim from Indonesia, i'm 19 years old, and now i'm a studen
                 height="36" alt="AndroidStudio" /></a>
     </p>
 
-## Social Media
-<p align="left">
-        <a href="https://facebook.com/wildanlh4" target="_blank" rel="noreferrer"><img
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"
-                width="36" height="36" /></a>
-        <a href="https://instagram.com/wildanlh__" target="_blank" rel="noreferrer"><img
-                src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-instagram-new-square2-512.png"
-                width="36" height="36" /></a>
-        <a href="https://twitter.com/wldnlh" target="_blank" rel="noreferrer"><img
-                src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png"
-                width="36" height="36" /></a>
-    </p>
-
 ### My Github Stats
 ![Wildan's GitHub stats](https://github-readme-stats.vercel.app/api?username=wildanlh&show_icons=true&theme=cobalt) 
 <br>
