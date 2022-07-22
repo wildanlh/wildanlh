@@ -27,9 +27,9 @@ I'm Wildan Luqmanul Hakim from Indonesia, i'm 19 years old, and now i'm a studen
     </p>
 
 ### My Github Stats
-![Wildan's GitHub stats](https://github-readme-stats.vercel.app/api?username=wildanlh&show_icons=true&theme=cobalt) 
+![Wildan's GitHub stats](https://github-readme-stats.vercel.app/api?username=wildanlh&show_icons=true&theme=tokyonight) 
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wildanlh&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wildanlh&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **wildanlh/wildanlh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
