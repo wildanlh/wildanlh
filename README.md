@@ -2,7 +2,7 @@
  ![Profile Views](https://komarev.com/ghpvc/?username=wildanlh&color=blue)
  
 ## About Me
-I'm Wildan Luqmanul Hakim from Indonesia, i'm 19 years old, and now i'm a student studying several programming languages. If you want to ask about me, you can contact on my social media below
+I'm Wildan Luqmanul Hakim from Indonesia, i'm 20 years old, and now i'm a student studying several programming languages. If you want to ask about me, you can contact on my social media.
 
 ## Skills
 <p align="left">
@@ -24,6 +24,12 @@ I'm Wildan Luqmanul Hakim from Indonesia, i'm 19 years old, and now i'm a studen
         <a href="https://developer.android.com/studio" target="_blank rel="noreferrer"><img
                 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="36"
                 height="36" alt="AndroidStudio" /></a>
+        <a href="https://www.mysql.com/" target="_blank rel="noreferrer"><img
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36"
+                height="36" alt="MySQL" /></a>
+        <a href="https://reactjs.org/" target="_blank rel="noreferrer"><img
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36"
+                height="36" alt="ReactJS" /></a>
     </p>
 
 ### My Github Stats
