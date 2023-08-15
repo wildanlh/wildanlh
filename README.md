@@ -1,5 +1,10 @@
-# Hi Mate! 👋
- ![Profile Views](https://komarev.com/ghpvc/?username=wildanlh&color=blue)
+# Hi Mate! <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
+![Profile Views](https://komarev.com/ghpvc/?username=wildanlh&color=blue)
+
+[![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wildanlh)
+[![Instagram](https://img.shields.io/badge/Instagram-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wildanlh__/)
+[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wildanlh/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/wldnlh)
  
 ## About Me
 I'm Wildan Luqmanul Hakim from Indonesia, i'm 20 years old, and now i'm a student studying several programming languages. If you want to ask about me, you can contact on my social media.
@@ -31,6 +36,7 @@ I'm Wildan Luqmanul Hakim from Indonesia, i'm 20 years old, and now i'm a studen
                 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36"
                 height="36" alt="ReactJS" /></a>
     </p>
+
 
 ### My Github Stats
 ![Wildan's GitHub stats](https://github-readme-stats.vercel.app/api?username=wildanlh&show_icons=true&theme=tokyonight) 
