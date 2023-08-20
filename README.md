@@ -5,7 +5,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=wildanlh&color=blue)
 
 ##  🤝🏻  Connect with me!
-[![Gmail](https://img.shields.io/badge/Gmail-c71610?style=for-the-badge&logo=gmail&logoColor=white)](https://github.com/wildanlh)
+[![Gmail](https://img.shields.io/badge/Gmail-c71610?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wildanluqmanul@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wildanlh__/)
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wildanlh/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/wldnlh)
